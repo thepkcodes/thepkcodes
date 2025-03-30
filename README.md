@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Punit Kumar 👋
 
-<!--
-**thepkcodes/thepkcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analytics Graduate Student | Data Science & Gen AI Enthusiast | Tech Writer
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pursuing a Master's in Data Analytics with coursework in Statistical Modeling and Regression, Machine Learning, Data Visualization, Data Engineering, Data Mining.
+- Building end-to-end Machine Learning & Data Science Projects to solve real-world problems, from data wrangling to model deployment.
+- Experimenting with Gen AI (LLMs, GANs, and diffusion models) to explore creative applications in text, image, and multimodal domains.
+- Writing Tech Articles to demystify complex concepts in Data Science, AI and Programming.
+
+## Skills
+
+#### Languages
+
