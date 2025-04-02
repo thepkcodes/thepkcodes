@@ -1,4 +1,6 @@
-## Hi There, I'm Punit Kumar👋
+![image](https://github.com/user-attachments/assets/26cfb96f-66ff-489d-93bf-07455803006b)
+
+
 
 📊 Data Analytics Graduate Student | Data Science & Gen AI Enthusiast | Tech Writer
 
