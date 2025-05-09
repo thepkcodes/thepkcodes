@@ -15,7 +15,9 @@
 
 ## 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/punit-kumar-cu2025) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pukunam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thepkwrites) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/unpaidlyfintern) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/punitiism) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punitpalsam@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/punit-kumar-cu2025) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&logoWidth=20)](https://leetcode.com/punitkr)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pukunam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thepkwrites) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/unpaidlyfintern) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/punitiism) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punitpalsam@gmail.com) 
 
 ## 💻 Skills:
 
